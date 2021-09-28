@@ -126,22 +126,34 @@ body {
 }
 
 .dark {
-    background: linear-gradient(236.85deg, #375B86 27.26%, #6B87A9 96.03%);
+    background: linear-gradient(236.85deg, #863737 27.26%, #a96b6b 96.03%);
 }
 
 .dark .container {
-    background: #333439;
+    background: #1b1c1f;
     color: #F6F6F6;
 }
-
-.dark .projetos-title {
-    color: #1C1C1C;
-
-}
-
 .dark .tema button {   
     background: #1C1C1C;
     color: #FFFFFF;
     border: 2px solid #FFFFFF;
     
+}
+
+.dark .portfolio a {
+    color: #F6F6F6;
+    text-decoration: none;
+}
+
+.dark .projetos {
+    background: linear-gradient(236.85deg, #5c0202 27.26%, #990505 96.03%);
+}
+
+.dark .conquistas {
+    background: linear-gradient(236.85deg, #5c0202 27.26%, #990505 96.03%);
+    color: #F6F6F6;
+}
+
+.dark .conquistas-title {
+    color: #F6F6F6;
 }
