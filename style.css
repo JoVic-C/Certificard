@@ -8,10 +8,11 @@ body {
 .container {
     background: #ECF4FF;
     color: #1C1C1C;
-    margin: 64px;
+    margin: 100px;
+    margin-top: 50px;
     border-radius: 20px;
     box-shadow: 6px 6px 6px #0E1D2F;
-    padding: 10px;
+    padding: 1px;
 }
 
 .header {
@@ -19,6 +20,7 @@ body {
     justify-content: space-between;
     margin: 3%;
     margin-left: 80px;
+    margin-top: 3%;
 }
 
 .perfil {
@@ -71,7 +73,6 @@ body {
     width: 95%;
     flex-direction: column;
     align-items: center;
-    margin-top: 16px;
     padding: 16px;
     box-shadow: 4px 2px 2px rgba(16, 16, 16, 0.42);
     border-radius: 20px;
@@ -99,7 +100,7 @@ body {
     background: linear-gradient(230.65deg, #499CFE 27.49%, #9CC8FC 83.19%);
     border-radius: 20px;
     margin: 50px;
-    height: 760px;
+    height: 50%;
     box-shadow: 2px 2px 4px 0px #1010106B;
     display: flex;
     flex-direction: column;
